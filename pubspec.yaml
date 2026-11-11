@@ -1,0 +1,25 @@
+name: f5_231a290134
+description: "Lab F5 - Danh sach va luoi trong Flutter"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Khai báo cả thư mục. Dấu "/" ở cuối là bắt buộc và KHÔNG đệ quy
+  # xuống thư mục con — mỗi thư mục con phải khai báo riêng một dòng.
+  assets:
+    - assets/images/

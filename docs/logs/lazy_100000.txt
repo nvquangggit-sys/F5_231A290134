@@ -1,0 +1,16 @@
+Thí nghiệm lazy loading — danh sách 100.000 mục (F5_231A290134)
+Số dòng itemBuilder thực sự được gọi khi mở màn hình: 11 / 100000
+
+Toàn bộ log (không cắt):
+
+F5_231A290134 itemBuilder dựng dòng 0 — Sản phẩm số 1
+F5_231A290134 itemBuilder dựng dòng 1 — Sản phẩm số 2
+F5_231A290134 itemBuilder dựng dòng 2 — Sản phẩm số 3
+F5_231A290134 itemBuilder dựng dòng 3 — Sản phẩm số 4
+F5_231A290134 itemBuilder dựng dòng 4 — Sản phẩm số 5
+F5_231A290134 itemBuilder dựng dòng 5 — Sản phẩm số 6
+F5_231A290134 itemBuilder dựng dòng 6 — Sản phẩm số 7
+F5_231A290134 itemBuilder dựng dòng 7 — Sản phẩm số 8
+F5_231A290134 itemBuilder dựng dòng 8 — Sản phẩm số 9
+F5_231A290134 itemBuilder dựng dòng 9 — Sản phẩm số 10
+F5_231A290134 itemBuilder dựng dòng 10 — Sản phẩm số 11
