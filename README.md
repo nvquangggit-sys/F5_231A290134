@@ -14,7 +14,7 @@ và ảnh asset có `errorBuilder`.
 |---|---|
 | Báo cáo (PDF) | [`docs/BaoCao_LabF5_231A290134.pdf`](docs/BaoCao_LabF5_231A290134.pdf) |
 | Báo cáo (Word) | [`docs/BaoCao_LabF5_231A290134.docx`](docs/BaoCao_LabF5_231A290134.docx) |
-| Video demo (30 giây) | [`docs/F5_231A290134_demo.mp4`](docs/F5_231A290134_demo.mp4) |
+| Video demo (48 giây) | [`docs/F5_231A290134_demo.mp4`](docs/F5_231A290134_demo.mp4) |
 
 ## Chức năng
 
