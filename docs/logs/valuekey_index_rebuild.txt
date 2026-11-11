@@ -1,11 +1,15 @@
-﻿F5_231A290134 itemBuilder dá»±ng dĂ²ng 0 â€” Ăo thun VHU
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 1 â€” BĂ¬nh giá»¯ nhiá»‡t
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 2 â€” Sá»• tay sinh viĂªn
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 3 â€” Balo laptop
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 4 â€” MĂ³c khĂ³a gá»—
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 5 â€” Cá»‘c sá»© in hĂ¬nh
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 0 â€” Ăo thun VHU
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 1 â€” BĂ¬nh giá»¯ nhiá»‡t
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 2 â€” Balo laptop
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 3 â€” MĂ³c khĂ³a gá»—
-F5_231A290134 itemBuilder dá»±ng dĂ²ng 4 â€” Cá»‘c sá»© in hĂ¬nh
+Thí nghiệm ValueKey(index) — danh sách 6 mục, vuốt xóa "Sổ tay sinh viên" (dòng thứ 3).
+6 dòng đầu: lần dựng đầu tiên khi mở màn hình.
+5 dòng sau: các dòng được dựng lại sau khi xóa (dữ liệu còn 5 mục).
+
+F5_231A290134 itemBuilder dựng dòng 0 — Áo thun VHU
+F5_231A290134 itemBuilder dựng dòng 1 — Bình giữ nhiệt
+F5_231A290134 itemBuilder dựng dòng 2 — Sổ tay sinh viên
+F5_231A290134 itemBuilder dựng dòng 3 — Balo laptop
+F5_231A290134 itemBuilder dựng dòng 4 — Móc khóa gỗ
+F5_231A290134 itemBuilder dựng dòng 5 — Cốc sứ in hình
+F5_231A290134 itemBuilder dựng dòng 0 — Áo thun VHU
+F5_231A290134 itemBuilder dựng dòng 1 — Bình giữ nhiệt
+F5_231A290134 itemBuilder dựng dòng 2 — Balo laptop
+F5_231A290134 itemBuilder dựng dòng 3 — Móc khóa gỗ
+F5_231A290134 itemBuilder dựng dòng 4 — Cốc sứ in hình
